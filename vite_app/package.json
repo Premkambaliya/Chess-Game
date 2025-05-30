@@ -10,13 +10,15 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "chess.js": "^1.1.0",
+    "@tailwindcss/vite": "^4.1.8",
+    "chess.js": "^1.2.0",
     "lucide-react": "^0.477.0",
     "react": "^19.0.0",
     "react-chessboard": "^4.7.2",
     "react-dnd": "^16.0.1",
     "react-dnd-html5-backend": "^16.0.1",
-    "react-dom": "^19.0.0"
+    "react-dom": "^19.0.0",
+    "tailwindcss": "^4.1.8"
   },
   "devDependencies": {
     "@eslint/js": "^9.21.0",
